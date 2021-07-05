@@ -1,6 +1,6 @@
 lazy val scalaTestV = "3.2.5"
-lazy val catsEffectV = "3.1.1"
-lazy val fs2V = "3.0.0"
+lazy val catsEffectV = "2.5.1"
+lazy val fs2V = "2.5.3"
 
 lazy val root = (project in file("."))
   .settings(
